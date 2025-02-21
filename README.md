@@ -10,6 +10,10 @@ I plan to start the project with basic HTML to refresh my coding skills and grad
 
 Ultimately, my goal is to create a valuable resource that helps fellow Fiat Palio owners with their vehicle maintenance while I continue my journey of learning to code.
 
+# Framework (WIP)
+
+This project is a work-in-progress use case showcasing modern web development practices and technologies, providing a solid foundation for scalable and maintainable applications.
+
 ## Frontend
 
 Key technologies for frontend development include:
@@ -26,7 +30,6 @@ Backend technologies utilized:
 
 - **Node.js**: JavaScript runtime featuring:
   - **NestJS**: A framework for scalable server-side applications with TypeScript.
-- **Python**: For backend services with **FastAPI** for API development.
 - **PostgreSQL**: Relational database accessed via **Prisma** or **Sequelize**.
 
 ## API Design
@@ -36,14 +39,13 @@ API design principles implemented:
 - **RESTful APIs**: Standardized communication.
 - **GraphQL**: Flexible data querying.
 - **JWT Authentication**: Secure user authentication.
-
-## Testing
+-
+- ## Testing
 
 Testing frameworks employed:
 
 - **Jest**: JavaScript testing.
 - **Mocha**: Additional JavaScript testing.
-- **PyTest**: For Python code testing.
 
 ## Version Control
 
@@ -51,3 +53,7 @@ Version control practices used:
 
 - **Git**: Version control system.
 - **GitHub**: Code hosting and collaboration.
+
+## Conclusion
+
+This framework lays a robust groundwork for modern web applications, integrating best practices to enhance scalability and maintainability.
