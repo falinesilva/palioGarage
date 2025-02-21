@@ -4,7 +4,7 @@ This project is a work-in-progress use case that highlights modern full stack we
 
 ## Idea
 
-The palio project is an idea for a website aimed at Fiat owners, focusing on the maintenance and repair of their Palio Weekend vehicles. As a car enthusiast and a Fiat Palio owner, I appreciate the value of having a collection of instructions and tips, especially since finding resources in English can be tough.
+The palioGarage project is an idea for a website aimed at Fiat owners, focusing on the maintenance and repair of their Palio Weekend vehicles. As a car enthusiast and a Fiat Palio owner, I appreciate the value of having a collection of instructions and tips, especially since finding resources in English can be tough.
 
 I plan to start the project with basic HTML to refresh my coding skills and gradually incorporate more advanced technologies. I envision using React for the user forum, Node.js and MongoDB for the online store, i18next for bilingual support, and offering downloadable PDF guides.
 
