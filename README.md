@@ -1,4 +1,4 @@
-# palio
+# palioGarage
 
 This project is a work-in-progress use case that highlights modern full stack web development practices and technologies. This project is intended to evolve as I explore and enhance my understanding of the framework.
 
